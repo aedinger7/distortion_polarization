@@ -1,6 +1,3 @@
-# distortion_polarization
-
-Codes used to produce the results of 
 # Cognitive distortions in political polarization.
 by Andy Edinger, Johan Bollen, Hernán A. Makse, and Matteo Serafino
 
