@@ -3,7 +3,7 @@ import re
 
 import pandas as pd
 
-_FLDR = "/l/mesur/CDS/"
+_FLDR = "CDS"
 
 
 def load_CDS(language="EN"):
