@@ -1,7 +1,5 @@
-# The Rise of Cognitive Distortions in Online Political Polarization
+# Cognitive distortions are associated with increasing political polarization
 by Andy Edinger, Johan Bollen, Hernán A. Makse, and Matteo Serafino
-
-https://arxiv.org/abs/XYZXYZ
 
 By using this code, you agree to the following terms:
 
